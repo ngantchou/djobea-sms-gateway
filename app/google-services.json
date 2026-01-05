@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272587515288",
+    "project_id": "warap-fb3e0",
+    "storage_bucket": "warap-fb3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272587515288:android:29a85b024c02ff9c8d37ed",
+        "android_client_info": {
+          "package_name": "com.djobea.smsgateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272587515288-ppleo054frdfb5aad0b2lnfbf9vivkg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8zyUxw44s6g-eh-nJ3wQDnZOkQbc8YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272587515288-ppleo054frdfb5aad0b2lnfbf9vivkg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
